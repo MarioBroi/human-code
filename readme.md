@@ -1,4 +1,4 @@
-# instraction
+# instruction
 Aprire un pacchetto di figurine
 Ce l’ho, mi manca!
 Che emozione, ogni volta che apro un pacchetto nuovo... chissà se troverò quella figurina così rara!
@@ -34,10 +34,10 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
     - appiccicare sull'album
     - vado allo STEP 5
 
-- STEP 5: 
+- STEP 5: Controllo di aver finito le figurine
     - SE ho ancora figurine STEP 2
     - OPPURE torno allo STEP 1
     
 - STEP 6: Preparare lo scambio per Sabato
     - prendere lezioni da Abdul sulla contrattazione
-    - scambiare una figura scarsa per una rara
+    - scambiare una figurina scarsa per una rara
